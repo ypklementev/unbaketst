@@ -4,5 +4,29 @@
     "artist": "Post Malone 21 Savage",
     "title": "Rockstar",
     "language": "en"
+  },
+  {
+    "file": "pesopluma.m4a",
+    "artist": "Peso Pluma",
+    "title": "SOLICITADO",
+    "language": "es"
+  },
+  {
+    "file": "frenchtrack.m4a",
+    "artist": "Cœur de pirate",
+    "title": "Place de la République",
+    "language": "fr"
+  },
+  {
+    "file": "tancui_sama.m4a",
+    "artist": "Скриптонит",
+    "title": "Танцуй сама",
+    "language": "ru"
+  },
+  {
+    "file": "miyagi.m4a",
+    "artist": "Miyagi & Эндшпиль",
+    "title": "Last of Us",
+    "language": "ru"
   }
 ]
