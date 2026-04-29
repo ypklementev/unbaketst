@@ -1,0 +1,10 @@
+# Core
+whisperx>=3.1.1
+jiwer>=3.0.3
+numpy>=1.24
+
+# Lyrics fetching
+syncedlyrics>=0.4.5
+
+# Optional: Genius fallback (requires GENIUS_TOKEN env var)
+# lyricsgenius>=3.0.1
